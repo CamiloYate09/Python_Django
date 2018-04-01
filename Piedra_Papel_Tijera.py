@@ -17,14 +17,14 @@ while True:
     pc = random.choice(depo)
     sleep(0.5)
     print(("La computadora eligio {}.").format(pc))
-    if(usuario == pc):
+    if (usuario == pc):
         print("\nEmapte.")
-    elif(usuario == "piedra" and pc == "tijera" ):
+    elif (usuario == "piedra" and pc == "tijera"):
         print("\nGanaste.")
-    elif(usuario == "papel" and pc == "piedra"):
+    elif (usuario == "papel" and pc == "piedra"):
         print("\nGanaste")
-    elif(usuario == "tijera"  and  pc == "papel"):
+    elif (usuario == "tijera" and pc == "papel"):
         print("\n Ganaste")
     else:
-        print("Perdiste. {} gana {} \n". format(pc,usuario,))
+        print("Perdiste. {} gana {} \n".format(pc, usuario, ))
     print(sus)
