@@ -1,0 +1,13 @@
+lenguajes_favoritos = {
+
+    'camilo':['python', 'ruby'],
+    'Andres': ['c'],
+    'Jhonny': ['ruby', 'go'],
+    'Tatiana': ['python', 'haskell'],
+
+}
+
+for nombre, lenguajes in lenguajes_favoritos.items():
+    print("\n" + nombre.title() + " mis lenguajes favoritos son :")
+    for lenguaje in lenguajes:
+        print("\t"+ lenguaje.title())
