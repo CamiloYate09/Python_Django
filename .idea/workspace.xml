@@ -2,645 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2349e069-88fe-469d-9aff-4f78810b8b28" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_Crash_Course_dicionarios" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_Crash_Course_dicionarios_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leer_escribir_text.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/texto.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler-0.10.0.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler-0.10.0.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler-0.10.0.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler-0.10.0.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler-0.10.0.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler-0.10.0.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler-0.10.0.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/_common.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/_version.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/easter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/parser/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/parser/_parser.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/parser/isoparser.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/relativedelta.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/rrule.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/tz/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/tz/_common.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/tz/_factories.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/tz/tz.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/tz/win.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/tzwin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/utils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/zoneinfo/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/dateutil/zoneinfo/rebuild.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/kiwisolver-1.0.1.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/kiwisolver-1.0.1.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/kiwisolver-1.0.1.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/kiwisolver-1.0.1.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/kiwisolver-1.0.1.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/kiwisolver-1.0.1.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/kiwisolver-1.0.1.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2-py3.6-nspkg.pth" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/namespace_packages.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib-2.2.2.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_animation_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_cm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_cm_listed.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_color_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_constrained_layout.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_contour.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_image.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_layoutbox.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_mathtext_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_path.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_png.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_pylab_helpers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_qhull.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_tri.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_version.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/_windowing.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/afm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/animation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/artist.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/_axes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/_base.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/_subplots.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axis.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backend_bases.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backend_managers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backend_tools.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/_backend_agg.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/_backend_tk.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/_gtk3_compat.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/_tkagg.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_agg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_cairo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_gdk.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_gtk.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_gtk3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_gtk3agg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_gtk3cairo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_gtkagg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_gtkcairo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_macosx.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_mixed.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_nbagg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_pdf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_pgf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_ps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt4agg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt4cairo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt5agg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt5cairo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_svg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_template.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_tkagg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_tkcairo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_webagg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_webagg_core.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_wx.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_wxagg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_wxcairo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/qt_compat.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/qt_editor/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/qt_editor/figureoptions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/qt_editor/formlayout.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/qt_editor/formsubplottool.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/tkagg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/all_figures.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/css/boilerplate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/css/fbm.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/css/page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/ipython_inline_figure.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_flat_10_000000_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-icons_222222_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-icons_228ef1_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-icons_ef8c08_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-icons_ffd27a_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/images/ui-icons_ffffff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/css/themes/base/jquery-ui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/js/jquery-1.11.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/jquery/js/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/js/mpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/js/mpl_tornado.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/js/nbagg_mpl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/nbagg_uat.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/web_backend/single_figure.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/windowing.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/wx_compat.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/bezier.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/blocking_input.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/category.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/cbook/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/cbook/_backports.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/cbook/deprecation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/cm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/collections.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/colorbar.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/colors.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/compat/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/compat/subprocess.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/concrt140.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/container.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/contour.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/dates.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/docstring.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/dviread.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/figure.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/font_manager.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/fontconfig_pattern.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/ft2font.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/gridspec.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/hatch.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/image.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/legend.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/legend_handler.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/lines.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/markers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mathtext.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mlab.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/cmex10.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/cmmi10.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/cmr10.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/cmsy10.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/cmtt10.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pagd8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pagdo8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pagk8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pagko8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pbkd8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pbkdi8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pbkl8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pbkli8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pcrb8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pcrbo8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pcrr8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pcrro8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvb8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvb8an.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8an.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvl8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvlo8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvr8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvr8an.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvro8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/phvro8an.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pncb8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pncbi8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pncr8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pncri8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pplb8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pplbi8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pplr8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pplri8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/psyr.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/ptmb8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/ptmbi8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/ptmr8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/ptmri8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/putb8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/putbi8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/putr8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/putri8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pzcmi8a.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/afm/pzdr.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Bold.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-BoldOblique.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Oblique.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Bold.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-BoldOblique.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Oblique.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Symbol.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Bold.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-BoldItalic.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Italic.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Roman.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/ZapfDingbats.afm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/LICENSE_STIX" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/back.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/back.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/back.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/back.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/back_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/back_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/filesave.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/filesave.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/filesave.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/filesave.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/filesave_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/filesave_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/forward.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/forward.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/forward.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/forward.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/forward_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/forward_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/hand.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/hand.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/hand.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/hand.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/hand_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/home.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/home.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/home.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/home_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/home_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/matplotlib.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/matplotlib.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/matplotlib.ppm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/matplotlib.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/matplotlib_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/move.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/move.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/move.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/move.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/move_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/move_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/qt4_editor_options.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/qt4_editor_options.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/qt4_editor_options.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/qt4_editor_options_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/subplots.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/subplots.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/subplots.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/subplots.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/subplots_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/subplots_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/matplotlibrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/None_vs_nearest-pdf.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/aapl.npz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/ada.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/axes_grid/bivariate_normal.npy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/ct.raw.gz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/demodata.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/eeg.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/embedding_in_wx3.xrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/goog.npz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/grace_hopper.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/grace_hopper.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/jacksboro_fault_dem.npz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/logo2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/membrane.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/msft.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/percent_bachelors_degrees_women_usa.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/sample_data/s1045.ima.gz" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/Solarize_Light2.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/bmh.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/dark_background.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/fast.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/fivethirtyeight.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/ggplot.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/grayscale.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-bright.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-colorblind.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-dark-palette.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-dark.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-darkgrid.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-deep.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-muted.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-notebook.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-paper.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-pastel.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-poster.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-talk.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-ticks.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-white.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn-whitegrid.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/seaborn.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/stylelib/tableau-colorblind10.mplstyle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/msvcp140.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/offsetbox.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/patches.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/path.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/patheffects.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/projections/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/projections/geo.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/projections/polar.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pylab.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/quiver.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/rcsetup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/sankey.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/scale.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/sphinxext/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/sphinxext/mathmpl.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/sphinxext/only_directives.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/sphinxext/plot_directive.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/spines.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/stackplot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/streamplot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/style/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/style/core.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/table.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/_nose/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/_nose/decorators.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/_nose/exceptions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/_nose/plugins/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/_nose/plugins/knownfailure.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/_nose/plugins/performgc.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/compare.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/conftest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/decorators.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/determinism.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/disable_internet.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/exceptions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/Duration.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/Epoch.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/EpochConverter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/StrConverter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/UnitDbl.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/UnitDblConverter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/UnitDblFormatter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/jpl_units/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/testing/noseclasses.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/texmanager.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/text.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/textpath.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/ticker.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tight_bbox.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tight_layout.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/transforms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/triangulation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/tricontour.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/trifinder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/triinterpolate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/tripcolor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/triplot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/trirefine.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/tri/tritools.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/ttconv.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/type1font.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/units.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/widgets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.2.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.2.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.2.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.2.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.2.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.2.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy-1.14.2.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_scripts.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/build_src.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/config.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/egg_info.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/command/install_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/absoft.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/compaq.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/g95.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/gnu.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/hpux.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/ibm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/intel.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/lahey.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/mips.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/nag.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/none.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/pathf95.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/pg.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/sun.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/distutils/fcompiler/vast.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_defmatrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_multiarray.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_numeric.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/tests/test_regression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/_polybase.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/chebyshev.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/hermite_e.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/laguerre.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/legendre.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polynomial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polyutils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_chebyshev.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_classes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_hermite.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_hermite_e.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_laguerre.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_legendre.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_polynomial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_polyutils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/tests/test_printing.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pylab.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing-2.2.0.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing-2.2.0.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing-2.2.0.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing-2.2.0.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing-2.2.0.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing-2.2.0.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing-2.2.0.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/python_dateutil-2.7.0.dist-info/zip-safe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytz-2018.3.dist-info/zip-safe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/BENTO_BUILD.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/HACKING.rst.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/INSTALL.rst.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/THANKS.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/__config__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_distributor_init.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/conftest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/_fortran.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/_test_fortran.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/arffread.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/iris.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/missing.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/nodata.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test1.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test2.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test3.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test4.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test5.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test6.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test7.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test8.arff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/test_arffread.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/idl.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/byteordercodes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio5_params.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio5_utils.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio_utils.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/miobase.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/streams.cp36-win_amd64.pyd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/afunc.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/some_functions.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test3dmatrix_7.1_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testbool_8_WIN64.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcell_7.4_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testemptycell_7.4_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmatrix_6.1_SOL2.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testonechar_6.5.1_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsecomplex_7.1_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsecomplex_7.4_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststring_7.4_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststringarray_6.5.1_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructnest_7.4_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testunicode_7.4_GLNX86.mat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/gen_mat4files.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/gen_mat5files.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/save_matfile.m" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_byteordercodes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio5_utils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio_funcs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio_utils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_miobase.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_pathological.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_streams.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/mmio.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/netcdf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_1d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_2d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_3d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_4d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_5d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_6d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_7d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_8d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_1d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_2d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_3d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_4d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_5d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_6d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_7d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_8d.sav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/example_1.nc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/example_2.nc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/example_3_maskedvals.nc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-3x3d-2i.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-mixed.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-11x1x10.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-15x10x22.dat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_fortran.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_idl.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_mmio.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_netcdf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_paths.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_wavfile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/wavfile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg.pxd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special.pxd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/version.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six-1.11.0.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six-1.11.0.dist-info/INSTALLER" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six-1.11.0.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six-1.11.0.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six-1.11.0.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six-1.11.0.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six-1.11.0.dist-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/GUI.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -2609,11 +1971,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python_Crash_Course_dicionarios_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Python_Crash_Course_dicionarios_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_Crash_Course_dicionarios_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="410">
               <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GUI.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/GUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -2644,10 +2016,11 @@
         <option value="$PROJECT_DIR$/leer_escribir_text.py" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_dicionarios" />
         <option value="$PROJECT_DIR$/Python_Crash_Course_dicionarios_1.py" />
+        <option value="$PROJECT_DIR$/venv/GUI.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
@@ -2675,6 +2048,11 @@
               <item name="Python_Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Django" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -2699,7 +2077,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Python_Crash_Course_dicionarios_1">
+  <component name="RunManager" selected="Python.GUI">
     <configuration name="Exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2718,19 +2096,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Piedra_papel_tijera_mejorado_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Django" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Piedra_papel_tijera_mejorado_GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2791,19 +2169,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Piedra_papel_tijera_mejorado_GUI" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Exception" />
-      <item index="2" class="java.lang.String" itemvalue="Python.leer_escribir_text" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios_1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Exception" />
+      <item index="1" class="java.lang.String" itemvalue="Python.leer_escribir_text" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GUI" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios_1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios" />
-        <item index="2" class="java.lang.String" itemvalue="Python.leer_escribir_text" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Exception" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Piedra_papel_tijera_mejorado_GUI" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GUI" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios_1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Python_Crash_Course_dicionarios" />
+        <item index="3" class="java.lang.String" itemvalue="Python.leer_escribir_text" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Exception" />
       </list>
     </recent_temporary>
   </component>
@@ -2828,20 +2206,27 @@
       <option name="project" value="LOCAL" />
       <updated>1522609848179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="diccionarios">
+      <created>1522655616471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522655616471</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="775" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29809105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07467057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61430794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2822086" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24539877" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5660964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2858,7 +2243,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="agregando nuevos elementos" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregando nuevos elementos" />
+    <MESSAGE value="diccionarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="diccionarios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3032,8 +2418,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Crash_Course_dicionarios_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="410">
           <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding />
         </state>
       </provider>
